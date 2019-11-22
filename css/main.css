@@ -1,0 +1,40 @@
+h1 {
+  color: #fff;
+  position: absolute;
+  left: 25px;
+  top: 25px;
+  z-index: 1000;
+  font-family: Georgia;
+}
+
+html {
+  color: #000;
+  font-family: Verdana;
+  background-image: linear-gradient(#bea586, rgb(28, 14, 0));
+  background-image: url("../images/sloth-bg.svg");
+  background-size: 48px;
+  background-color: #bea586;
+}
+
+.sloth {
+  position: relative;
+}
+
+figcaption {
+  font-family: Georgia;
+}
+
+figure {
+  border-top: solid 2px #000;
+  border-bottom: solid 2px #000;
+  height: 600px;
+}
+
+.container {
+  border-top: solid 2px #000;
+  border-bottom: solid 2px #000;
+}
+
+main {
+  background-color: #fff;
+}
